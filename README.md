@@ -15,17 +15,17 @@ They have been designed to work with the Ordnance Survey full colour style.*
 
 **4.**  For use as a contextual map I recommend the following layer order and visibility:
 
-  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/images/EGM_Layers.png "Recommended layer order for EuroGlobalMap with these styles")
+  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/Images/EGM_Layers.png "Recommended layer order for EuroGlobalMap with these styles")
 
 I recommend viewing the map between **1:300,000** and **3,000,000** for maximum legibility
 
 Your map should now look similar to this: 
 
-  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/images/EGM_1.png "Screenshot of OS VectorMap Local #1")
+  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/Images/EGM_1.png "Screenshot of OS VectorMap Local #1")
 
-  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/images/EGM_2.png "Screenshot of OS VectorMap Local #2")
+  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/Images/EGM_2.png "Screenshot of OS VectorMap Local #2")
 
-  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/images/EGM_3.png "Screenshot of OS VectorMap Local #3")
+  ![Screenshot](https://raw.githubusercontent.com/ChristopherWesson/Euro-Global-Map-unofficial-OS-like-style/master/Images/EGM_3.png "Screenshot of OS VectorMap Local #3")
 
 
   ## Additional information
